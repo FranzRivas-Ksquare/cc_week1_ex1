@@ -7,11 +7,14 @@
 */
 
 
+// cToF: input c as a int
+// return: (INT) convert value into fahrenheit
 
 /** DO   CHANGE THE FUNCTION NAME **/
 const cToF = (c) => {
     /* Only make changes below this comment */
     
+    return (c * 1.8) + 32
 
     /* Only make changes below this comment */
 }
